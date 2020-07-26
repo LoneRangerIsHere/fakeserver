@@ -2,7 +2,7 @@
   "profile": {
     "name": "solo"
   },
-  "list": {
+  "list": 
      [
   {position: '22-1-10', name: 'Hydrogen', weight: '4.0026', symbol: 'H'},
   {position: '23/1/1', name: 'Helium', weight:'4.0026' , symbol: 'He'},
@@ -12,5 +12,5 @@
   {position: '6', name: 'Carbon', weight: '4.0026', symbol: 'C'}
   
 ]
-  }
+  
 }
