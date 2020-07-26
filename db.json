@@ -1,5 +1,16 @@
 {
   "profile": {
     "name": "solo"
+  },
+  "list": {
+     [
+  {position: '22-1-10', name: 'Hydrogen', weight: '4.0026', symbol: 'H'},
+  {position: '23/1/1', name: 'Helium', weight:'4.0026' , symbol: 'He'},
+  {position: '3', name: 'Lithium', weight: '4.0026', symbol: 'Li'},
+  {position: '4', name: 'Beryllium', weight: '4.0026', symbol: 'Be'},
+  {position: '5', name: 'Boron', weight: '4.0026', symbol: 'B'},
+  {position: '6', name: 'Carbon', weight: '4.0026', symbol: 'C'}
+  
+]
   }
 }
