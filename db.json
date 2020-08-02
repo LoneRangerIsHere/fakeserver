@@ -7,7 +7,8 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
-  "todos": [ {
+  "todos": [ 
+    {
     "userId": 1,
     "id": 1,
     "title": "delectus aut autem",
@@ -60,7 +61,8 @@
     "id": 4,
     "title": "et porro tempora",
     "completed": true
-  }],
+  }
+  ],
   "data": [
     {
         "createdDate": "2014-09-12T19:34:29Z",
